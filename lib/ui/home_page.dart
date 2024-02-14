@@ -40,6 +40,14 @@ class HomePage extends StatelessWidget {
               IconButton(
                   onPressed: (){},
                   icon: const Icon(Icons.account_circle_rounded, color: Colors.white,)
+              ),
+              IconButton(
+                  onPressed: (){},
+                  icon: const Icon(Icons.account_circle_rounded, color: Colors.white,)
+              ),
+              IconButton(
+                  onPressed: (){},
+                  icon: const Icon(Icons.account_circle_rounded, color: Colors.white,)
               )
             ],
           ),
